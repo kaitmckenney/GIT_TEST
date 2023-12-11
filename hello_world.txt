@@ -1,0 +1,3 @@
+if you come back to this page and haven't figured out
+why it's throwing a "fatal" message when giving the "git status" command in the VScode termial,
+fucking figure it out.
